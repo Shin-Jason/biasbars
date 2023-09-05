@@ -1,0 +1,28 @@
+1.
+As I plotted words like "was", "the", and "they" the bars seemed to remain consistent no matter the gender.
+Some of the y-values for women were larger for low, medium, or high while some of the y-values for men
+were larger for low, medium, or high. There seemed to be no correlation for neutral words. However, as
+I searched up more descriptive words such as "smart," "genius," and "brilliant" all were in the majority
+of men reviews. These words connotating to intelligence were used a lot more frequently for men
+than women. The word "annoying" had a very stark bias for women in low reviews. There were significantly
+more low reviews that had the word "annoying" than men. The word "mean" was used more often for men
+in low reviews, but were used more than 2x as much for women in the medium reviews.
+
+2.
+If I were to design this ratings website, I would allow the Professor who is getting rated to be
+able to manually switch their gender if need be. I think this would allow a more inclusive website
+to fit to the needs of the Professors if students were to get their gender identity wrong. For those
+who identify as nonbinary, I would implement a third category to say if the professor identified as
+nonbinary. I would also add an "unsure" section if the student does not know. This would work
+with the Professor to manually switch their identify if they do classify as nonbinary, but the student
+did not know.
+
+3.
+One problem similar to this topic would be getting a more diverse set of professors for classes
+related to history and English. Schools' curriculums are filled with very eurocentric topics
+and themes. Events in history are often told from a single perspective or gloss over many of the
+achievements made by BIPOC communities. Creating a project to look into the race of professors in
+classes that should be taught by BIPOC professors would highlight the need to diversify our
+education system. The values being implemented would be for the sake of increasing diversity and
+inclusion. The problem being solved would be to create a more diverse set teachers who can relate
+to kids who have grown up without representation in their community.
